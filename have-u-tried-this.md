@@ -1,7 +1,7 @@
 ## ✏️ preview
 
 deploy: https://elice-kdt-sw-1st-vm02.koreacentral.cloudapp.azure.com/
-README: https://kdt-gitlab.elice.io/sw-001-project/team2/have-u-tried-this
+README: https://github.com/YWTechIT/have-u-tried-this
 
 ### 어떤 프로젝트인가요..?
 항상 혼자 프로젝트를 만들다가 처음으로 팀 프로젝트를 진행했다. 프로젝트 명은  `have-u-tried-this`인데 국내 지역별로 맛집을 공유할 수 있는 프로젝트이다. 다른 사이트와의 차이점이 있다면 식당별로 정리되어있지 않고 자치구까지 찾아볼 수 있는 점과 단순히 식당이 어떤지 리뷰하는것이 아니고 소셜 기능을 통해 소통할 수 있는 공간을 마련했다. 
